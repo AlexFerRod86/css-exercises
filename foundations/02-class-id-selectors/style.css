@@ -1,0 +1,21 @@
+.impar {
+
+    background-color: #ffc0cb;
+    font-family: verdana, "dejavu Sans", sans-serif ;
+    
+}
+
+.n3{
+    font-size: 24px;
+}
+
+#n2{
+    color: #0000ff;
+    font-size: 36px;    
+}
+
+#n4{
+    background-color: hsl(120, 50%, 76%);
+    font-size: 24px;
+    font-weight: bold;
+}
